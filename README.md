@@ -81,6 +81,20 @@
 
 # 📂 Featured Projects
 
+## 🩺 Medical Image Classification – Pneumonia & Tuberculosis Detection
+- Developed a deep learning-based medical image classification system using ResNet50 transfer learning to detect Pneumonia and Tuberculosis from chest X-ray images.
+- Implemented Grad-CAM visualization to highlight affected regions and improve model interpretability.
+- Collaborated in a team to develop a Streamlit interface for image uploads, disease predictions, and visualization of results.
+
+---
+
+## ✈️ AeroPulse India – Aviation Big Data Analytics Platform
+- Developed a big data analytics platform to analyze Indian aviation trends using DGCA and Ministry of Civil Aviation datasets.
+- Utilized Hadoop HDFS, MapReduce, Apache Spark, and Python to process and analyze airline performance, passenger traffic, airport operations, and flight statistics.
+- Built interactive dashboards and route visualizations using Power BI and Flask, along with six-month passenger demand forecasting.
+
+---
+
 ## 🚗 Smart Parking Management & Analytics System
 - Developed a full-stack smart parking management platform with real-time slot tracking and reservation handling
 - Implemented Flask + SQLite backend with REST API integration for bookings, slots, notifications, and vehicle logs
